@@ -1,0 +1,7 @@
+D:\mphasis\assignments\ass3\ConsApp3\ConsApp3\bin\Debug\ConsApp3.exe.config
+D:\mphasis\assignments\ass3\ConsApp3\ConsApp3\bin\Debug\ConsApp3.exe
+D:\mphasis\assignments\ass3\ConsApp3\ConsApp3\bin\Debug\ConsApp3.pdb
+D:\mphasis\assignments\ass3\ConsApp3\ConsApp3\obj\Debug\ConsApp3.csproj.AssemblyReference.cache
+D:\mphasis\assignments\ass3\ConsApp3\ConsApp3\obj\Debug\ConsApp3.csproj.CoreCompileInputs.cache
+D:\mphasis\assignments\ass3\ConsApp3\ConsApp3\obj\Debug\ConsApp3.exe
+D:\mphasis\assignments\ass3\ConsApp3\ConsApp3\obj\Debug\ConsApp3.pdb
